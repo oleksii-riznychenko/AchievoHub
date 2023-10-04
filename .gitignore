@@ -1,6 +1,7 @@
 # compiled output
 /apps/api/dist
 /apps/client/dist
+/apps/client/node_modules
 /node_modules
 dist-ssr
 *.local
